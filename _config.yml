@@ -1,4 +1,3 @@
-layout_spectrum: 0.11374424863606691
 typography_spectrum: 0.851813554065302
 color:
   brandStrength: 0.105012197047472
@@ -11,4 +10,9 @@ color:
     - '#D9E8F5'
     - '#FFFFFF'
     - '#F26101'
-name: endless delight
+layout_spectrum: 0.11374424863606691
+author:
+  name: Daniel Daum
+  email: info@daniel-daum.de
+name: daniel daum
+title: projects | live | love
